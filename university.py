@@ -1,14 +1,3 @@
-#تکلیف اول
-x=9
-y=x/2
-#z=z+y+2 
-#print(x,y,z)
-
-#تکلیف دوم
-a=3
-b=a+1
-c=a*4/2
-print(a,b,c)
 
 #تکلیف سوم
 age1=int(input("Please enter your age:"))
